@@ -28,3 +28,4 @@ Si deseas contribuir a QuickCartCalc, puedes realizar un fork del repositorio, i
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+if0_38869918
